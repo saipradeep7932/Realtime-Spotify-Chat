@@ -1,6 +1,5 @@
 <h1 align="center">Realtime Spotify Application ✨</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
 
 -   🎸 Listen to music, play next and previous songs
 -   🔈 Update the volume with a slider
